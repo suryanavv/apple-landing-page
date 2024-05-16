@@ -1,3 +1,3 @@
-# apple-landing-page
+# Apple-Landing-Page
 
-[Checkout live 🔗 ](https://suryanavv.github.io/digital-clock/)
+[Checkout live 🔗 ](https://suryanavv.github.io/apple-landing-page/)
